@@ -1,1 +1,1 @@
-from  company import *
+from  .company import *

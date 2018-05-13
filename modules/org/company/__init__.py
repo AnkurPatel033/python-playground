@@ -1,1 +1,1 @@
-from  mypackage import *
+from  .mypackage import *
