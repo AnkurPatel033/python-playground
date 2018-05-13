@@ -1,15 +1,15 @@
 ## getting the arguments in python
 import sys
 
-print sys.argv
+print (sys.argv)
 
-print """Or may be we can go more verbose"""
+print ("""Or may be we can go more verbose""")
 
-i = 0;
+i = 0
 
 for arg in sys.argv :
-    print i
-    print ""+ arg
+    print (i)
+    print (""+ arg)
     i = i+1
 
-print "done"
+print ("done")
