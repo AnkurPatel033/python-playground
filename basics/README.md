@@ -1,11 +1,10 @@
 #Notes on Syntax
-
-##1. Syntax
+##Syntax
 Python has a easy yet typical syntax. Those who are coming from a C/Java background will have to adapt a bit and get used to a new way of coding. 
 
 ----
 
-##2. Variables are case sensitive, lets see some valid and invalid variables
+##Variables are case sensitive, lets see some valid and invalid variables
 Following are list of some valid and invalid variables:
 
 ```
@@ -26,7 +25,7 @@ for = 0 # Reserved Keyword
 
 ----------
 
-##3. No Braces for indicating block
+##No Braces for indicating block
 Those coming for C/Java background will find it a bit awkward without {}. But we dont have braces for blocks. Instead we will have to use indentation to show the block:
 
 ```
@@ -39,7 +38,7 @@ else:
 
 ---
 
-##4. Rigidly enforces line indentation:
+##Rigidly enforces line indentation:
 
 ```
 if a>b:
@@ -52,7 +51,7 @@ else:
 
 ----
 
-##5. Too many quotes: Single Double and triple quotes
+##Too many quotes: Single Double and triple quotes
 
 ```
 print('Hello')
@@ -62,7 +61,7 @@ print("""Hello World""")
 ```
 -----
 
-##6. Hash for comment
+##6 Hash for comment
 
 ```
 # Comment
